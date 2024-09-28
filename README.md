@@ -1,6 +1,6 @@
-- 🌺 Hi, I’m @lilmaglo
-- 🎧 I’m interested in MUSIC and ANIMANGA 💕!!!
-- ⚡ Fun fact: I´m not a programmer... hahahah
+- 👤 Hi, I’m Andy. 
+- 🖤 I like MUSIC 🎧 and ANIMANGA. 📚
+- ⚡ Fun fact: I´m not a programmer... hahahah 😇
 
 <!---
 lilmaglo/lilmaglo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
