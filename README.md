@@ -1,6 +1,6 @@
 - 👤 Hi, I’m Andy. 
-- 🖤 I like MUSIC 🎧 and ANIMANGA. 📚
-- ⚡ Fun fact: I´m not a programmer... hahahah 😇
+- 🖤 I like Music 🎧 and AniManga. 📚
+- ⚡ Fun fact: I´m not a programmer.. hahah 😇
 
 <!---
 lilmaglo/lilmaglo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
