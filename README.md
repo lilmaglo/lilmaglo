@@ -1,4 +1,4 @@
-I like Music 🎧 and AniManga. 📚
+I like Music 🎧 and Fiction. 📚📽
 Fun fact: I´m not a programmer.. hahah 😇
 
 <!---
